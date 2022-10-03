@@ -13,7 +13,7 @@
 
 💻 Started my path in the tech world in 2018, developing websites. In my internships, worked with data analysis and created applications to solve real problems for our company!
 
-📚 Currently working on some personal projects, studying software architecture and improving my skils with Next.js.
+📚 Currently working as a software developer on Osas.
 
 🎓 Undergraduate student in materials engineering (CEFET-MG).
 
