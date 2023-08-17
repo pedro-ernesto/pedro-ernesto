@@ -1,4 +1,4 @@
-<h1 align="left">Hey everyone, I'm Pedro Ernesto  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"> </h1>
+<h1 align="left">Hey everyone, I'm Pedro Ernesto </h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-ernesto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -13,7 +13,7 @@
 
 💻 Started my path in the tech world in 2018, developing websites. In my internships, worked with data analysis and created applications to solve real problems for our company!
 
-📚 Currently working as a software developer on Osas.
+📚 Currently working as a software developer on Rethink Tecnologia.
 
 🎓 Undergraduate student in materials engineering (CEFET-MG).
 
